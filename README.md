@@ -1,5 +1,5 @@
 # To-Do-List
-Makes a to-do list with a starting item of "apples" which can be deleted
+Makes a to-do list or shopping list
 
 This program opens on a menu where you can do one of 7 things, in order to select an item, you have to type in that number and then press enter (eg. 1)
 The list begins with the item apples though this can be deleted with option number 4 which removes an item
