@@ -5,3 +5,5 @@ This program opens on a menu where you can do one of 7 things, in order to selec
 The list begins with the item apples though this can be deleted with option number 4 which removes an item
 When adding, removing, and completing tasks you will be prompted to enter the thing that you want to change, in order for it to work you must type it in exactly as it was entered (eg. apples)
 Option 8 will end the program but can easily be retrieved by starting the code again
+
+Also worked on by Amisha A.
